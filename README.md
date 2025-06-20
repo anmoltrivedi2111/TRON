@@ -30,7 +30,4 @@ Tron is a **voice-activated desktop AI assistant** developed using **Python** an
 
 > 📌 **Note:** This assistant only supports **voice interaction**. Make sure your microphone is working.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/tron-ai-assistant.git
-   cd tron-ai-assistant
+
