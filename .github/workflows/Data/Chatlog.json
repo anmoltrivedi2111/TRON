@@ -1,0 +1,122 @@
+[
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Anmol! It's nice to meet you. What's on your mind today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again! Is there something I can help you with or would you like to chat about something in particular?"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye Anmol! Have a great day!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Anmol!"
+    },
+    {
+        "role": "user",
+        "content": "No input."
+    },
+    {
+        "role": "assistant",
+        "content": "Waiting for your question or topic to discuss..."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye Anmol!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Anmol!"
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready to answer your question!"
+    },
+    {
+        "role": "user",
+        "content": "Hello drone."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Tron, not a drone!"
+    },
+    {
+        "role": "user",
+        "content": "This head is its automation task."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm here to assist you with any questions or tasks you may have!"
+    },
+    {
+        "role": "user",
+        "content": "Where to pick up?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not sure what you're referring to. Could you please provide more context or clarify what you mean by \"pick up\"?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Anmol!"
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a businessman. He is known for his leadership of Tesla, SpaceX, X, and the Department of Government Efficiency. Musk has been considered the wealthiest person in the world since 2021; as of May 2025, Forbes estimates his net worth."
+    },
+    {
+        "role": "user",
+        "content": "hi tronn"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Anmol!"
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Tron, a highly advanced AI chatbot designed to provide accurate and helpful responses to your questions!"
+    }
+]
