@@ -30,4 +30,18 @@ Tron is a **voice-activated desktop AI assistant** developed using **Python** an
 
 > 📌 **Note:** This assistant only supports **voice interaction**. Make sure your microphone is working.
 
+System Flow 
+
+User Voice Input
+      ↓
+Speech Recognition
+      ↓
+Intent Processing (Cohere)
+      ↓
+Action Handler (system/API)
+      ↓
+Response Generation
+      ↓
+Voice Output + UI Display
+
 
