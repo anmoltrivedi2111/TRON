@@ -38,7 +38,7 @@ Speech Recognition
       ↓
 Intent Processing (Cohere)
       ↓
-Action Handler (system/API)
+Action Handler (system/APIs)
       ↓
 Response Generation
       ↓
